@@ -1,2 +1,2 @@
-# js-bigo-practice
+# algorithms-exercises
 Created with CodeSandbox
